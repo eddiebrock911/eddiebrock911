@@ -24,7 +24,7 @@
 
 ## 🎯 Current Focus
 
-```javascript
+
 const ankit = {
     currentlyWorking: "IPL Win Predictor",
     currentlyLearning: ["Machine Learning", "Deep Learning", "NLP"],
@@ -40,7 +40,6 @@ const ankit = {
         other: ["Unity", "Android"]
     }
 };
-```
 
 ---
 
