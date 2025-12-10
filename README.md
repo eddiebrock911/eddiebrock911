@@ -24,7 +24,6 @@
 
 ## 🎯 Current Focus
 
-```HTMLS
 <!doctype html>
 <html lang="hi">
 <head>
@@ -46,12 +45,10 @@
 <body>
   <div class="card">
     <h1>Ankit — Profile</h1>
-
     <div class="row">
       <div class="label">Currently Working</div>
       <div>IPL Win Predictor</div>
     </div>
-
     <div class="row">
       <div class="label">Currently Learning</div>
       <div>
@@ -60,22 +57,18 @@
         <span class="chip">NLP</span>
       </div>
     </div>
-
     <div class="row">
       <div class="label">Looking to Collaborate</div>
       <div>Olympics Analysis</div>
     </div>
-
     <div class="row">
       <div class="label">Portfolio</div>
       <div><a href="https://ankitai.onrender.com" target="_blank" rel="noopener">https://ankitai.onrender.com</a></div>
     </div>
-
     <div class="row">
       <div class="label">Fun Fact</div>
       <div>Mai Zindaa Hu 💪</div>
     </div>
-
     <div class="row">
       <div class="label">Ask Me About</div>
       <div>
@@ -85,7 +78,6 @@
         <span class="chip">Python</span>
       </div>
     </div>
-
     <div class="row">
       <div class="label">Technologies</div>
       <div>
@@ -96,13 +88,11 @@
           <span class="chip">CSS3</span>
           <span class="chip">JavaScript</span>
         </div>
-
         <div class="small" style="margin-top:8px;"><b>Back-End:</b></div>
         <div>
           <span class="chip">Python</span>
           <span class="chip">MySQL</span>
         </div>
-
         <div class="small" style="margin-top:8px;"><b>Data Science:</b></div>
         <div>
           <span class="chip">Pandas</span>
@@ -111,14 +101,12 @@
           <span class="chip">TensorFlow</span>
           <span class="chip">PyTorch</span>
         </div>
-
         <div class="small" style="margin-top:8px;"><b>Tools:</b></div>
         <div>
           <span class="chip">Git</span>
           <span class="chip">Linux</span>
           <span class="chip">OpenCV</span>
         </div>
-
         <div class="small" style="margin-top:8px;"><b>Other:</b></div>
         <div>
           <span class="chip">Unity</span>
@@ -130,7 +118,6 @@
 </body>
 </html>
 
-```
 
 ---
 
