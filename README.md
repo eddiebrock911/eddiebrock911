@@ -12,10 +12,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiebrock911&show_icons=true&locale=en&layout=compact" alt="eddiebrock911" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&locale=en" alt="eddiebrock911" /></p>
-
 <div align="center">
 
 ## 🏆 GitHub Trophies
