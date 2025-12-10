@@ -14,6 +14,14 @@
 
 <div align="center">
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eddiebrock911&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -87,14 +95,6 @@ Mai Zindaa Hu 💪
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
