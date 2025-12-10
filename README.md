@@ -24,22 +24,112 @@
 
 ## 🎯 Current Focus
 
-```javascript
-const ankit = {
-    currentlyWorking: "IPL Win Predictor",
-    currentlyLearning: ["Machine Learning", "Deep Learning", "NLP"],
-    lookingToCollaborate: "Olympics Analysis",
-    portfolio: "https://ankitai.onrender.com",
-    funFact: "Mai Zindaa Hu 💪",
-    askMeAbout: ["Web Dev", "ML", "Data Science", "Python"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "JavaScript"],
-        backEnd: ["Python", "MySQL"],
-        dataScience: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch"],
-        tools: ["Git", "Linux", "OpenCV"],
-        other: ["Unity", "Android"]
-    }
-};
+```HTMLS
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ankit — Profile</title>
+  <style>
+    body{font-family:system-ui,Segoe UI,Roboto,Arial; margin:24px; background:#0b1020; color:#eaf1ff;}
+    .card{max-width:860px; margin:0 auto; background:#101834; border:1px solid #233061; border-radius:14px; padding:18px;}
+    .row{display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;}
+    .label{min-width:170px; font-weight:700; color:#9bb3ff;}
+    a{color:#7dd3fc; text-decoration:none;}
+    a:hover{text-decoration:underline;}
+    .chip{display:inline-block; padding:4px 10px; border:1px solid #2a3a7a; border-radius:999px; margin:2px 6px 2px 0; background:#0c1435;}
+    h1{margin:0 0 10px; font-size:22px;}
+    .small{opacity:.9; font-size:14px;}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Ankit — Profile</h1>
+
+    <div class="row">
+      <div class="label">Currently Working</div>
+      <div>IPL Win Predictor</div>
+    </div>
+
+    <div class="row">
+      <div class="label">Currently Learning</div>
+      <div>
+        <span class="chip">Machine Learning</span>
+        <span class="chip">Deep Learning</span>
+        <span class="chip">NLP</span>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="label">Looking to Collaborate</div>
+      <div>Olympics Analysis</div>
+    </div>
+
+    <div class="row">
+      <div class="label">Portfolio</div>
+      <div><a href="https://ankitai.onrender.com" target="_blank" rel="noopener">https://ankitai.onrender.com</a></div>
+    </div>
+
+    <div class="row">
+      <div class="label">Fun Fact</div>
+      <div>Mai Zindaa Hu 💪</div>
+    </div>
+
+    <div class="row">
+      <div class="label">Ask Me About</div>
+      <div>
+        <span class="chip">Web Dev</span>
+        <span class="chip">ML</span>
+        <span class="chip">Data Science</span>
+        <span class="chip">Python</span>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="label">Technologies</div>
+      <div>
+        <div class="small"><b>Front-End:</b></div>
+        <div>
+          <span class="chip">React</span>
+          <span class="chip">HTML5</span>
+          <span class="chip">CSS3</span>
+          <span class="chip">JavaScript</span>
+        </div>
+
+        <div class="small" style="margin-top:8px;"><b>Back-End:</b></div>
+        <div>
+          <span class="chip">Python</span>
+          <span class="chip">MySQL</span>
+        </div>
+
+        <div class="small" style="margin-top:8px;"><b>Data Science:</b></div>
+        <div>
+          <span class="chip">Pandas</span>
+          <span class="chip">NumPy</span>
+          <span class="chip">Scikit-learn</span>
+          <span class="chip">TensorFlow</span>
+          <span class="chip">PyTorch</span>
+        </div>
+
+        <div class="small" style="margin-top:8px;"><b>Tools:</b></div>
+        <div>
+          <span class="chip">Git</span>
+          <span class="chip">Linux</span>
+          <span class="chip">OpenCV</span>
+        </div>
+
+        <div class="small" style="margin-top:8px;"><b>Other:</b></div>
+        <div>
+          <span class="chip">Unity</span>
+          <span class="chip">Android</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
 ```
 
 ---
