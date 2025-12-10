@@ -24,6 +24,8 @@
 
 ## 🎯 Current Focus  📚 Currently Learning
 
+- Python
+- Data Science
 - Machine Learning
 - Deep Learning
 - NLP (Natural Language Processing)
@@ -31,14 +33,6 @@
 
 ## ⚡ Fun Fact
 Mai Zindaa Hu 💪
-
-## 💬 Ask Me About
-- Web Development
-- Machine Learning
-- Data Science
-- Python
-
-
 
 📫 **Connect with me** through my [portfolio](https://ankitai.onrender.com)!
 ---
