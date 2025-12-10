@@ -120,10 +120,6 @@ Mai Zindaa Hu 💪
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎵 Spotify Playing
-
-[![Spotify](https://novatorem-eddiebrock911.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
