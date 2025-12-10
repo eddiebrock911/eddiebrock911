@@ -130,6 +130,12 @@ Mai Zindaa Hu 💪
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiebrock911&show_icons=true&locale=en&layout=compact" alt="eddiebrock911" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&locale=en" alt="eddiebrock911" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&" alt="eddiebrock911" /></p>
+
 ⭐️ From [Ankit](https://github.com/eddiebrock911) | Made with ❤️ and lots of ☕
 
 </div>
