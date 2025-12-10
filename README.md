@@ -119,6 +119,6 @@
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-⭐️ From [Ankit](https://github.com/eddiebrock911) | Made with ❤️ and lots of ☕
+⭐️ From [Ankit](https://github.com/eddiebrock911) | Made with Ankit ❤️ and lots of ☕
 
 </div>
