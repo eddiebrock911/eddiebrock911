@@ -35,10 +35,6 @@
 - Deep Learning
 - NLP (Natural Language Processing)
 
-
-## ⚡ Fun Fact
-Mai Zindaa Hu 💪
-
 📫 **Connect with me** through my [portfolio](https://ankitai.onrender.com)!
 ---
 
