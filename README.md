@@ -22,14 +22,8 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus  📚 Currently Learning
 
-# Hi there! 👋 I'm Ankit
-
-## 🚀 Currently Working On
-**IPL Win Predictor** - A machine learning project to predict IPL match outcomes
-
-## 📚 Currently Learning
 - Machine Learning
 - Deep Learning
 - NLP (Natural Language Processing)
