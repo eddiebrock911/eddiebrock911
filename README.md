@@ -24,8 +24,6 @@
 
 ## 🎯 Current Focus  📚 Currently Learning
 
-- Python
-- Data Science
 - Machine Learning
 - Deep Learning
 - NLP (Natural Language Processing)
