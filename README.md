@@ -24,101 +24,62 @@
 
 ## 🎯 Current Focus
 
-<!doctype html>
-<html lang="hi">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Ankit — Profile</title>
-  <style>
-    body{font-family:system-ui,Segoe UI,Roboto,Arial; margin:24px; background:#0b1020; color:#eaf1ff;}
-    .card{max-width:860px; margin:0 auto; background:#101834; border:1px solid #233061; border-radius:14px; padding:18px;}
-    .row{display:flex; gap:12px; flex-wrap:wrap; align-items:flex-start;}
-    .label{min-width:170px; font-weight:700; color:#9bb3ff;}
-    a{color:#7dd3fc; text-decoration:none;}
-    a:hover{text-decoration:underline;}
-    .chip{display:inline-block; padding:4px 10px; border:1px solid #2a3a7a; border-radius:999px; margin:2px 6px 2px 0; background:#0c1435;}
-    h1{margin:0 0 10px; font-size:22px;}
-    .small{opacity:.9; font-size:14px;}
-  </style>
-</head>
-<body>
-  <div class="card">
-    <h1>Ankit — Profile</h1>
-    <div class="row">
-      <div class="label">Currently Working</div>
-      <div>IPL Win Predictor</div>
-    </div>
-    <div class="row">
-      <div class="label">Currently Learning</div>
-      <div>
-        <span class="chip">Machine Learning</span>
-        <span class="chip">Deep Learning</span>
-        <span class="chip">NLP</span>
-      </div>
-    </div>
-    <div class="row">
-      <div class="label">Looking to Collaborate</div>
-      <div>Olympics Analysis</div>
-    </div>
-    <div class="row">
-      <div class="label">Portfolio</div>
-      <div><a href="https://ankitai.onrender.com" target="_blank" rel="noopener">https://ankitai.onrender.com</a></div>
-    </div>
-    <div class="row">
-      <div class="label">Fun Fact</div>
-      <div>Mai Zindaa Hu 💪</div>
-    </div>
-    <div class="row">
-      <div class="label">Ask Me About</div>
-      <div>
-        <span class="chip">Web Dev</span>
-        <span class="chip">ML</span>
-        <span class="chip">Data Science</span>
-        <span class="chip">Python</span>
-      </div>
-    </div>
-    <div class="row">
-      <div class="label">Technologies</div>
-      <div>
-        <div class="small"><b>Front-End:</b></div>
-        <div>
-          <span class="chip">React</span>
-          <span class="chip">HTML5</span>
-          <span class="chip">CSS3</span>
-          <span class="chip">JavaScript</span>
-        </div>
-        <div class="small" style="margin-top:8px;"><b>Back-End:</b></div>
-        <div>
-          <span class="chip">Python</span>
-          <span class="chip">MySQL</span>
-        </div>
-        <div class="small" style="margin-top:8px;"><b>Data Science:</b></div>
-        <div>
-          <span class="chip">Pandas</span>
-          <span class="chip">NumPy</span>
-          <span class="chip">Scikit-learn</span>
-          <span class="chip">TensorFlow</span>
-          <span class="chip">PyTorch</span>
-        </div>
-        <div class="small" style="margin-top:8px;"><b>Tools:</b></div>
-        <div>
-          <span class="chip">Git</span>
-          <span class="chip">Linux</span>
-          <span class="chip">OpenCV</span>
-        </div>
-        <div class="small" style="margin-top:8px;"><b>Other:</b></div>
-        <div>
-          <span class="chip">Unity</span>
-          <span class="chip">Android</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+# Hi there! 👋 I'm Ankit
 
+## 🚀 Currently Working On
+**IPL Win Predictor** - A machine learning project to predict IPL match outcomes
 
+## 📚 Currently Learning
+- Machine Learning
+- Deep Learning
+- NLP (Natural Language Processing)
+
+## 🤝 Looking to Collaborate On
+**Olympics Analysis** - Data analysis and visualization project
+
+## 🌐 Portfolio
+Check out my work: [https://ankitai.onrender.com](https://ankitai.onrender.com)
+
+## ⚡ Fun Fact
+Mai Zindaa Hu 💪
+
+## 💬 Ask Me About
+- Web Development
+- Machine Learning
+- Data Science
+- Python
+
+## 🛠️ Technologies & Tools
+
+### Front-End
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Back-End
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+### Other
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+---
+
+📫 **Connect with me** through my [portfolio](https://ankitai.onrender.com)!
 ---
 
 ## 🚀 Featured Projects
