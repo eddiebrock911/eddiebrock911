@@ -22,6 +22,8 @@
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&" alt="eddiebrock911" /></p>
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eddiebrock911&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -127,8 +129,6 @@ Mai Zindaa Hu 💪
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&" alt="eddiebrock911" /></p>
 
 ⭐️ From [Ankit](https://github.com/eddiebrock911) | Made with ❤️ and lots of ☕
 
