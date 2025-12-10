@@ -28,11 +28,6 @@
 - Deep Learning
 - NLP (Natural Language Processing)
 
-## 🤝 Looking to Collaborate On
-**Olympics Analysis** - Data analysis and visualization project
-
-## 🌐 Portfolio
-Check out my work: [https://ankitai.onrender.com](https://ankitai.onrender.com)
 
 ## ⚡ Fun Fact
 Mai Zindaa Hu 💪
