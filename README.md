@@ -1,34 +1,142 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiebrock911&label=Profile%20views&color=0e75b6&style=flat" alt="eddiebrock911" /> </p>
+# 👋 Hi, I'm Ankit
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddiebrock911" alt="eddiebrock911" /></a> </p>
+### 🚀 Frontend Developer | 🤖 ML Enthusiast | 💻 Problem Solver
 
-- 🔭 I’m currently working on [IPL Win Predictor](https://iplwinprokit.onrender.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future+with+code;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+ideas+into+reality" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **machine learning, Deep learning and NLP**
+[![Profile Views](https://komarev.com/ghpvc/?username=eddiebrock911&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/eddiebrock911)
 
-- 👯 I’m looking to collaborate on [Olympics-analysis](https://olympikit.onrender.com)
+</div>
 
-- 🤝 I’m looking for help with [sms-email-classification](https://iplwinprokit.onrender.com)
+---
 
-- 👨‍💻 All of my projects are available at [https://ankitai.onrender.com](https://ankitai.onrender.com)
+<div align="center">
 
-- ⚡ Fun fact **Mai Zindaa Hu**
+## 🏆 GitHub Trophies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eddie-brock-364ba537b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eddie-brock-364ba537b" height="30" width="40" /></a>
-<a href="https://kaggle.com/ankitkumar8252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitkumar8252" height="30" width="40" /></a>
-<a href="https://instagram.com/__ankit._.op_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ankit._.op_" height="30" width="40" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=eddiebrock911&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddiebrock911&show_icons=true&locale=en&layout=compact" alt="eddiebrock911" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&locale=en" alt="eddiebrock911" /></p>
+## 🎯 Current Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&" alt="eddiebrock911" /></p>
+```javascript
+const ankit = {
+    currentlyWorking: "IPL Win Predictor",
+    currentlyLearning: ["Machine Learning", "Deep Learning", "NLP"],
+    lookingToCollaborate: "Olympics Analysis",
+    portfolio: "https://ankitai.onrender.com",
+    funFact: "Mai Zindaa Hu 💪",
+    askMeAbout: ["Web Dev", "ML", "Data Science", "Python"],
+    technologies: {
+        frontEnd: ["React", "HTML5", "CSS3", "JavaScript"],
+        backEnd: ["Python", "MySQL"],
+        dataScience: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch"],
+        tools: ["Git", "Linux", "OpenCV"],
+        other: ["Unity", "Android"]
+    }
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🏏 **IPL Win Predictor** | Predict IPL match outcomes using ML | [View Demo](https://iplwinprokit.onrender.com) |
+| 🏅 **Olympics Analysis** | Comprehensive Olympic data analysis | [View Demo](https://olympikit.onrender.com) |
+| 📧 **SMS/Email Classifier** | ML-based spam detection system | [View Demo](https://iplwinprokit.onrender.com) |
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiebrock911&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddie-brock-364ba537b)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ankitkumar8252)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__ankit._.op_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankitai.onrender.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🎵 Spotify Playing
+
+[![Spotify](https://novatorem-eddiebrock911.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+⭐️ From [Ankit](https://github.com/eddiebrock911) | Made with ❤️ and lots of ☕
+
+</div>
