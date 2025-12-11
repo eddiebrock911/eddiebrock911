@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "Ankit"
+          git config --global user.email "ankitkumar823089@gimal.com.com"
           git add .
-          git commit -m "auto commit" || echo "No changes to commit"
+          git commit -m "auto commit"
           git push
