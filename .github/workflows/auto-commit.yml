@@ -13,19 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Make changes
-        run: |
-          echo "$(date)" >> auto-file.txt
+      - name: Change
+        run: echo "$(date)" >> auto-file.txt
 
-      - name: Commit and Push
+      - name: Commit
         run: |
           git config --global user.name "Ankit"
-          git config --global user.email "ankitkumar823089@gimal.com.com"
+          git config --global user.email "ankitkumar823089@gmail.com"
           git add .
-          git commit -m "auto commit"
+          git commit -m "auto commit" || exit 0
           git push
