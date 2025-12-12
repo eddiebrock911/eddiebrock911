@@ -117,7 +117,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**"Code is like humor. When you have to explain it, it's bad."** – Anki
+**"Code is like humor. When you have to explain it, it's bad."** – Ankit
 
 ⭐️ From [Ankit](https://github.com/eddiebrock911) | Made with Ankit ❤️ and lots of ☕
 
