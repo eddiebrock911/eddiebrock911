@@ -4,7 +4,7 @@
 
 ### 🚀 Frontend Developer | 🤖 ML Enthusiast | 💻 Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future+with+code;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+ideas+into+reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future+AI+with+BabyAI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+ideas+into+reality" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=eddiebrock911&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/eddiebrock911)
 
@@ -115,7 +115,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 
 **"Code is like humor. When you have to explain it, it's bad."** – Ankit Kumar
 
