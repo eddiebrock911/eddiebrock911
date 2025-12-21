@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ankit
 
-### 🚀 Frontend Developer | 🤖 ML Enthusiast | 💻 Problem Solver
+### 🚀 Web Developer | 🤖 ML Enthusiast | 💻 Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future+AI+with+BabyAI;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+ideas+into+reality" alt="Typing SVG" />
 
