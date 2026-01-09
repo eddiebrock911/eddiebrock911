@@ -11,6 +11,11 @@
 </div>
 
 ---
+## 🧠 About Me
+
+I am a self-driven developer focused on Machine Learning, NLP, and AI systems.  
+Currently building **BabyAI**, a personal AI assistant with advanced capabilities.
+
 
 <div align="center">
 
