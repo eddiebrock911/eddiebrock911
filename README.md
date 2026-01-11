@@ -11,10 +11,6 @@
 </div>
 
 ---
-## 🧠 About Me
-
-I am a self-driven developer focused on Machine Learning, NLP, and AI systems.  
-Currently building **BabyAI**, a personal AI assistant with advanced capabilities.
 
 
 <div align="center">
@@ -24,6 +20,13 @@ Currently building **BabyAI**, a personal AI assistant with advanced capabilitie
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
+
+---
+
+## 🧠 About Me
+
+I am a self-driven developer focused on Machine Learning, NLP, and AI systems.  
+Currently building **BabyAI**, a personal AI assistant with advanced capabilities.
 
 ---
 
