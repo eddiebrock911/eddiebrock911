@@ -71,7 +71,7 @@ ankit.say_hi()
 
 Predict IPL match outcomes using advanced machine learning algorithms with real-time data analysis.
 
-**[🚀 Live Demo](https://iplwinprokit.onrender.com)** | **[📂 Repository](#)**
+**[🚀 Live Demo](https://iplwinprokit.onrender.com)** | **[📂 Repository](https://github.com/eddiebrock911/IPL-Win-Probability-Predictor-Project)**
 
 </td>
 <td width="50%">
@@ -85,7 +85,7 @@ Predict IPL match outcomes using advanced machine learning algorithms with real-
 
 Comprehensive Olympic data analysis with interactive visualizations and historical insights.
 
-**[🚀 Live Demo](https://olympikit.onrender.com)** | **[📂 Repository](#)**
+**[🚀 Live Demo](https://olympikit.onrender.com)** | **[📂 Repository](https://github.com/eddiebrock911/Olympics-analysis-app)**
 
 </td>
 </tr>
@@ -96,12 +96,12 @@ Comprehensive Olympic data analysis with interactive visualizations and historic
 **Intelligent Spam Detection**
 
 ![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 Advanced spam detection system using NLP and machine learning techniques.
 
-**[🚀 Live Demo](https://iplwinprokit.onrender.com)** | **[📂 Repository](#)**
+**[🚀 Live Demo](https://antispamkit.onrender.com)** | **[📂 Repository](https://github.com/eddiebrock911/sms-email-classification-)**
 
 </td>
 <td width="50%">
@@ -132,7 +132,6 @@ Next-generation AI assistant with advanced NLP capabilities and personalized lea
 ### 🌐 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -157,12 +156,8 @@ Next-generation AI assistant with advanced NLP capabilities and personalized lea
 
 ### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -171,6 +166,7 @@ Next-generation AI assistant with advanced NLP capabilities and personalized lea
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🎮 Other Tools
