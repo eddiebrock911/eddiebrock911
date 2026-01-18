@@ -1,10 +1,6 @@
 <div align="center">
-
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+BabyAI+%7C+NLP+Specialist+%F0%9F%A7%A0;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Ankit%20Kumar&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=15"/>
 
 <!-- Profile Badges -->
 <p align="center">
@@ -13,12 +9,42 @@
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=for-the-badge" alt="focus"/>
 </p>
 
-<!-- Animated Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg">
-</picture>
+---
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+BabyAI+%7C+NLP+Specialist+%F0%9F%A7%A0+Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddiebrock911&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eddiebrock911&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+</div>
+
+---
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiebrock911&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+<!-- GitHub Streak Stats -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&title_color=00D9FF" alt="Activity Graph"/>
+
+<!-- Trophy -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=eddiebrock911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 
 </div>
 
@@ -180,27 +206,6 @@ Next-generation AI assistant with advanced NLP capabilities and personalized lea
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiebrock911&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-<!-- GitHub Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&title_color=00D9FF" alt="Activity Graph"/>
-
-<!-- Trophy -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=eddiebrock911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
-
-</div>
-
----
-
 ## 🎓 Learning Journey
 
 <div align="center">
@@ -227,20 +232,6 @@ graph LR
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddiebrock911&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eddiebrock911&theme=tokyonight&utcOffset=5.5" width="32%"/>
-
-</div>
-
----
-
 ## 🌟 Highlights
 
 <div align="center">
@@ -248,7 +239,7 @@ graph LR
 | 🎯 Achievement | 📊 Stats | 🏆 Recognition |
 |:-------------:|:--------:|:-------------:|
 | **Projects Completed** | 15+ | ⭐️⭐️⭐️⭐️⭐️ |
-| **ML Models Trained** | 50+ | 🤖🤖🤖🤖🤖 |
+| **ML Models Trained** | 30+ | 🤖🤖🤖🤖🤖 |
 | **Lines of Code** | 100K+ | 💻💻💻💻💻 |
 | **Coffee Consumed** | ∞ | ☕️☕️☕️☕️☕️ |
 
@@ -264,7 +255,7 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddie-brock-364ba537b)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ankitkumar8252)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__ankit._.op_)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkumar823089@gmail.com)
 
 </div>
 
@@ -279,6 +270,14 @@ graph LR
 </div>
 
 ---
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ## 📝 Latest Blog Posts
 
@@ -289,16 +288,6 @@ graph LR
 - 🧠 Understanding Neural Networks
 - 🚀 Deploying ML Models to Production
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-eddiebrock911.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
-
-</div>
 
 ---
 
@@ -318,8 +307,9 @@ If you like my projects, consider buying me a coffee!
 ```javascript
 while(alive) {
     eat();
-    sleep();
+    study()
     code();
+    sleep();
     repeat();
 }
 ```
@@ -330,6 +320,6 @@ while(alive) {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-<sub>Made with ❤️ by Ankit Kumar | Last Updated: 2026</sub>
+<sub>Made with ❤️ by Ankit Kumar | Last Updated: 18 jan 2026</sub>
 
 </div>
