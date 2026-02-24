@@ -5,12 +5,10 @@
 <!-- ╚══════════════════════════════════════════╝ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:020024,50:090979,75:00d4ff,100:00d4ff&height=300&section=header&text=Ankit%20Kumar&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20ML%20Specialist%20%E2%80%A2%20Full%20Stack%20Dev&descSize=22&descAlignY=65&descFontColor=00d4ff&animation=fadeIn"/>
-
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=800&lines=🤖+Building+BabyAI+—+Next-Gen+AI+Assistant;🧠+Machine+Learning+%26+Deep+Learning+Engineer;🚀+Full+Stack+Dev+%7C+NLP+%7C+Computer+Vision;☕+Turning+Coffee+into+Intelligent+Systems;🌌+Mission%3A+Terraform+Mars+with+AI+%2B+Biology" alt="Typing SVG"/>
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+BabyAI+%7C+NLP+Specialist+%F0%9F%A7%A0+Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a>
 
+---
 <br/><br/>
 
 <!-- Status Badges -->
@@ -49,6 +47,43 @@
 </div>
 
 <br/>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--           GITHUB ANALYTICS                 -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddiebrock911&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=00D4FF" height="175em" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiebrock911&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" height="175em" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" width="70%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true&title_color=00D4FF" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=eddiebrock911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eddiebrock911&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--              ABOUT ME                      -->
@@ -107,43 +142,6 @@ print(f"👋 Hey! I'm {me.name} — {me.dream}")
 |  🗂️ Projects  |  🤖 ML Models  |  💻 Lines of Code  |  ☕ Coffees  |  🌟 GitHub Stars  |
 |:---:|:---:|:---:|:---:|:---:|
 | **15+** | **30+** | **100K+** | **∞** | **Growing** |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ╔══════════════════════════════════════════╗ -->
-<!--           GITHUB ANALYTICS                 -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddiebrock911&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=eddiebrock911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=00D4FF" height="175em" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiebrock911&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" height="175em" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eddiebrock911&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" width="70%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eddiebrock911&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true&title_color=00D4FF" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=eddiebrock911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eddiebrock911&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eddiebrock911&theme=tokyonight&utcOffset=5.5" width="32%"/>
 
 </div>
 
@@ -246,7 +244,7 @@ Comprehensive Olympic data explorer with medal tallies, athlete comparisons, cou
 
 Fast-paced space shooter with enemy AI waves, particle explosions, score multipliers & difficulty scaling. Zero dependencies — pure Vanilla JS engine.
 
-**[🎮 Play Now](https://github.com/eddiebrock911/Space-Shooters-Game)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/Space-Shooters-Game)**
+**[🎮 Play Now](https://tickit-rht5.onrender.com/)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/Space-Shooters-Game)**
 
 </td>
 <td width="50%" valign="top">
@@ -262,7 +260,7 @@ Fast-paced space shooter with enemy AI waves, particle explosions, score multipl
 
 Personalized movie recommendations using cosine similarity on TF-IDF genre vectors combined with collaborative filtering on 5000+ movie dataset.
 
-**[🚀 Live Demo](#)** &nbsp;·&nbsp; **[📂 Repo](#)**
+**[🚀 Live Demo](https://movieskit.onrender.com/)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/movies-recommendation-system-)**
 
 </td>
 </tr>
@@ -387,22 +385,6 @@ graph TD
     style WEB  fill:#34D399,stroke:#34D399,color:#000
 ```
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ╔══════════════════════════════════════════╗ -->
-<!--           CONTRIBUTION SNAKE               -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
