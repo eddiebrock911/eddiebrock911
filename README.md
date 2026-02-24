@@ -8,22 +8,19 @@
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+BabyAI+%7C+NLP+Specialist+%F0%9F%A7%A0+Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br/><br/>
 
 <!-- Status Badges -->
 <img src="https://img.shields.io/badge/⚡_Status-Open_to_Work-00d4ff?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/📍_Location-Patna,_Bihar,_India-00d4ff?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🎯_Focus-AI_%26_ML-00d4ff?style=for-the-badge&labelColor=0d1117"/>
-
 <br/><br/>
-
 <!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=eddiebrock911&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/github/followers/eddiebrock911?logo=github&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=Followers"/>
-
 <br/><br/>
-
 <!-- Social Links -->
 <a href="https://ankitai.onrender.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-ankitai.onrender.com-00D4FF?style=for-the-badge&labelColor=0d1117"/>
@@ -47,6 +44,7 @@
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--           GITHUB ANALYTICS                 -->
@@ -80,8 +78,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eddiebrock911&theme=tokyonight&utcOffset=5.5" width="32%"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--              ABOUT ME                      -->
@@ -478,7 +474,7 @@ me.dailyRoutine();
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 **"Code is poetry written in logic — and I'm writing an epic."**
 
@@ -491,3 +487,4 @@ me.dailyRoutine();
 <sub>⚡ Crafted with ❤️ by <a href="https://github.com/eddiebrock911">Ankit Kumar</a> | Patna, Bihar, India 🇮🇳 | Updated: 2026</sub>
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
