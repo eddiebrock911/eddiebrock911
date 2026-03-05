@@ -349,8 +349,7 @@ graph TD
     ROOT --> DL(["🧠 Deep Learning"])
     ROOT --> NLP(["💬 NLP"])
     ROOT --> CV(["👁️ Computer Vision"])
-    ROOT --> WEB(["🌐 Full Stack"])
-
+    
     ML --> ML1(["📊 Supervised\nLearning"])
     ML --> ML2(["🔍 Unsupervised\nLearning"])
     ML --> ML3(["🎰 Reinforcement\nLearning"])
@@ -367,16 +366,12 @@ graph TD
     CV --> CV2(["🎯 Object Detection"])
     CV --> CV3(["😊 Emotion AI"])
 
-    WEB --> WEB1(["⚛️ React/Next.js"])
-    WEB --> WEB2(["🐍 Flask/Django"])
-    WEB --> WEB3(["☁️ AWS/Docker"])
-
+    
     style ROOT fill:#00D4FF,stroke:#00D4FF,color:#000,font-weight:bold
     style ML   fill:#FF6B6B,stroke:#FF6B6B,color:#fff
     style DL   fill:#4ECDC4,stroke:#4ECDC4,color:#fff
     style NLP  fill:#FFE66D,stroke:#FFE66D,color:#000
     style CV   fill:#A78BFA,stroke:#A78BFA,color:#fff
-    style WEB  fill:#34D399,stroke:#34D399,color:#000
 ```
 
 </div>
