@@ -4,7 +4,10 @@
 <!--              HERO SECTION                  -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:020024,50:090979,75:00d4ff,100:00d4ff&height=300&section=header&text=Ankit%20Kumar&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20ML%20Specialist%20%E2%80%A2%20Full%20Stack%20Dev&descSize=22&descAlignY=65&descFontColor=00d4ff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a2e,60:0d0d3b,80:001f5c,100:003399&height=280&section=header&text=ANKIT%20KUMAR&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20ML%20Specialist%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=62&descFontColor=4fc3f7&animation=blinking"/>
+
+
+
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+BabyAI+%7C+NLP+Specialist+%F0%9F%A7%A0+Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a>
 
