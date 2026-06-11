@@ -138,7 +138,7 @@ print(f"👋 Hey! I'm {me.name} — {me.dream}")
 
 |  🗂️ Projects  |  🤖 ML Models  |  💻 Lines of Code  |  ☕ Coffees  |  🌟 GitHub Stars  |
 |:---:|:---:|:---:|:---:|:---:|
-| **15+** | **30+** | **100K+** | **∞** | **Growing** |
+| **25+** | **30+** | **100K+** | **∞** | **Growing** |
 
 </div>
 
@@ -173,7 +173,7 @@ print(f"👋 Hey! I'm {me.name} — {me.dream}")
 🧠 Personalized AI    → Learns your preferences over time
 ```
 
-**[📂 Repo](#)** &nbsp;·&nbsp; **[📖 Docs](#)**
+**[📂 Repo](https://github.com/eddiebrock911/Baby-AI)** &nbsp;·&nbsp; **[📖 Docs](https://github.com/eddiebrock911/Baby-AI)**
 
 </td>
 <td width="50%" valign="top">
@@ -230,18 +230,18 @@ Comprehensive Olympic data explorer with medal tallies, athlete comparisons, cou
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎮 Space Shooters Game</h3>
+<h3>🎮 Tic Tac Toe Online</h3>
 <img src="https://img.shields.io/badge/Status-✅_Playable-brightgreen?style=flat-square&labelColor=0d1117"/>
 
-> *Vanilla JS Browser Arcade*
+> *Online Multiplayer Board Game*
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Fast-paced space shooter with enemy AI waves, particle explosions, score multipliers & difficulty scaling. Zero dependencies — pure Vanilla JS engine.
+Classic Tic Tac Toe reimagined for the browser — play online or offline against a friend. Clean UI, instant moves, zero dependencies — pure Vanilla JS.
 
-**[🎮 Play Now](https://tickit-rht5.onrender.com/)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/Space-Shooters-Game)**
+**[🎮 Play Now](https://tickiton.onrender.com/)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/Tic-Tac-Toe-Online-off-)**
 
 </td>
 <td width="50%" valign="top">
