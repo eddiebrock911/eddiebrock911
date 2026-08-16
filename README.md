@@ -6,14 +6,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a2e,60:0d0d3b,80:001f5c,100:003399&height=280&section=header&text=ANKIT%20KUMAR&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20ML%20Specialist%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=62&descFontColor=4fc3f7&animation=blinking"/>
 
-
-
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+BabyAI+%7C+NLP+Specialist+%F0%9F%A7%A0+Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/><br/>
+<br/>
+
+<!-- Quick Nav -->
+<p align="center">
+  <a href="#stats"><b>📊 GitHub Stats</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#about"><b>🧠 About</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#projects"><b>🏆 Projects</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#stack"><b>🛠️ Tech Stack</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#roadmap"><b>🗺️ Roadmap</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#connect"><b>🤝 Connect</b></a>
+</p>
+
+<br/>
 
 <!-- Status Badges -->
 <img src="https://img.shields.io/badge/⚡_Status-Open_to_Work-00d4ff?style=for-the-badge&labelColor=0d1117"/>
@@ -47,20 +57,29 @@
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d4ff,100:0d1117&height=4&section=header"/>
 
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--           GITHUB ANALYTICS                 -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
+<a name="stats"></a>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
 
+<!-- Contribution Snake — signature piece -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg" />
+  <img alt="Ankit's contribution snake eating the commit graph" src="https://raw.githubusercontent.com/eddiebrock911/eddiebrock911/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>🐍 needs a one-time setup — the workflow file is included below, see the note after this file</sub>
+
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddiebrock911&theme=tokyonight" width="100%"/>
-
-<br/>
-
 
 <br/>
 
@@ -86,8 +105,10 @@
 <!--              ABOUT ME                      -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d4ff,100:0d1117&height=4&section=header"/>
 
+<a name="about"></a>
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;`whoami`
 
 ```python
@@ -134,6 +155,32 @@ print(f"👋 Hey! I'm {me.name} — {me.dream}")
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🚧 Building**
+<br/>
+BabyAI — Emotion Sensing, Wake Word & Camera Vision
+
+</td>
+<td align="center" width="33%">
+
+**📚 Learning**
+<br/>
+Transformers · LLMs · Reinforcement Learning
+
+</td>
+<td align="center" width="33%">
+
+**🤝 Open To**
+<br/>
+Internships · Freelance · Research · AI/ML Collabs
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 |  🗂️ Projects  |  🤖 ML Models  |  💻 Lines of Code  |  ☕ Coffees  |  🌟 GitHub Stars  |
@@ -142,12 +189,14 @@ print(f"👋 Hey! I'm {me.name} — {me.dream}")
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--           FEATURED PROJECTS                -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d4ff,100:0d1117&height=4&section=header"/>
+
+<a name="projects"></a>
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -165,6 +214,8 @@ print(f"👋 Hey! I'm {me.name} — {me.dream}")
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![Stars](https://img.shields.io/github/stars/eddiebrock911/Baby-AI?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117) ![Forks](https://img.shields.io/github/forks/eddiebrock911/Baby-AI?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117) ![Last Commit](https://img.shields.io/github/last-commit/eddiebrock911/Baby-AI?style=flat-square&color=00d4ff&labelColor=0d1117)
 
 ```
 🎭 Emotion Sensing    → Real-time emotion detection
@@ -187,6 +238,8 @@ print(f"👋 Hey! I'm {me.name} — {me.dream}")
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+![Stars](https://img.shields.io/github/stars/eddiebrock911/IPL-Win-Probability-Predictor-Project?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117) ![Forks](https://img.shields.io/github/forks/eddiebrock911/IPL-Win-Probability-Predictor-Project?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117)
+
 Real-time IPL match win probability predictor using Logistic Regression trained on 10+ years of historical match data. Interactive UI with live score inputs.
 
 **[🚀 Live Demo](https://iplwinprokit.onrender.com)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/IPL-Win-Probability-Predictor-Project)**
@@ -205,6 +258,8 @@ Real-time IPL match win probability predictor using Logistic Regression trained 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-grey?style=flat-square&logo=flask&logoColor=white)
 
+![Stars](https://img.shields.io/github/stars/eddiebrock911/sms-email-classification-?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117) ![Forks](https://img.shields.io/github/forks/eddiebrock911/sms-email-classification-?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117)
+
 TF-IDF vectorization + Naive Bayes classifier with 97%+ accuracy on real spam datasets. Handles SMS, email & multi-language inputs.
 
 **[🚀 Live Demo](https://antispamkit.onrender.com)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/sms-email-classification-)**
@@ -220,6 +275,8 @@ TF-IDF vectorization + Naive Bayes classifier with 97%+ accuracy on real spam da
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+![Stars](https://img.shields.io/github/stars/eddiebrock911/Olympics-analysis-app?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117) ![Forks](https://img.shields.io/github/forks/eddiebrock911/Olympics-analysis-app?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117)
 
 Comprehensive Olympic data explorer with medal tallies, athlete comparisons, country rankings, and decade-wise trend analysis.
 
@@ -239,6 +296,8 @@ Comprehensive Olympic data explorer with medal tallies, athlete comparisons, cou
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+![Stars](https://img.shields.io/github/stars/eddiebrock911/Tic-Tac-Toe-Online-off-?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117) ![Forks](https://img.shields.io/github/forks/eddiebrock911/Tic-Tac-Toe-Online-off-?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117)
+
 Classic Tic Tac Toe reimagined for the browser — play online or offline against a friend. Clean UI, instant moves, zero dependencies — pure Vanilla JS.
 
 **[🎮 Play Now](https://tickiton.onrender.com/)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/Tic-Tac-Toe-Online-off-)**
@@ -255,6 +314,8 @@ Classic Tic Tac Toe reimagined for the browser — play online or offline agains
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+![Stars](https://img.shields.io/github/stars/eddiebrock911/movies-recommendation-system-?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117) ![Forks](https://img.shields.io/github/forks/eddiebrock911/movies-recommendation-system-?style=flat-square&logo=github&color=00d4ff&labelColor=0d1117)
+
 Personalized movie recommendations using cosine similarity on TF-IDF genre vectors combined with collaborative filtering on 5000+ movie dataset.
 
 **[🚀 Live Demo](https://movieskit.onrender.com/)** &nbsp;·&nbsp; **[📂 Repo](https://github.com/eddiebrock911/movies-recommendation-system-)**
@@ -265,15 +326,30 @@ Personalized movie recommendations using cosine similarity on TF-IDF genre vecto
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--              TECH STACK                    -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d4ff,100:0d1117&height=4&section=header"/>
+
+<a name="stack"></a>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack
 
 <div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,pytorch,tensorflow,sklearn,opencv,react,nextjs,tailwind,redux&theme=dark&perline=13" alt="core languages, AI/ML and frontend skill icons"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,django,mysql,mongodb,sqlite,aws,docker,git,githubactions,vscode,linux,postman,unity&theme=dark&perline=14" alt="backend, cloud and tooling skill icons"/>
+</p>
+
+<br/>
+
+<details>
+<summary><b>📋 Click for the full categorized breakdown</b></summary>
+<br/>
 
 **🌐 Languages**
 
@@ -332,14 +408,18 @@ Personalized movie recommendations using cosine similarity on TF-IDF genre vecto
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-</div>
+</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--           LEARNING ROADMAP                 -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d4ff,100:0d1117&height=4&section=header"/>
+
+<a name="roadmap"></a>
 ## 🗺️ Learning Roadmap
 
 <div align="center">
@@ -379,11 +459,12 @@ graph TD
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--              BLOG + QUOTE                  -->
 <!-- ╚══════════════════════════════════════════╝ -->
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d4ff,100:0d1117&height=4&section=header"/>
 
 <table width="100%">
 <tr>
@@ -414,12 +495,14 @@ graph TD
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ╔══════════════════════════════════════════╗ -->
 <!--           CONNECT + FOOTER                 -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d4ff,100:0d1117&height=4&section=header"/>
+
+<a name="connect"></a>
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -485,4 +568,3 @@ me.dailyRoutine();
 <sub>⚡ Crafted with ❤️ by <a href="https://github.com/eddiebrock911">Ankit Kumar</a> | Patna, Bihar, India 🇮🇳 | Updated: 2026</sub>
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
